@@ -16,13 +16,6 @@ Ensure you have the following installed:
 - A modern web browser (Chrome, Firefox, Edge)
 - JavaScript enabled
 
-### Deployment on GitHub Pages
-1. Push your code to a GitHub repository.
-2. Navigate to your repository settings.
-3. Scroll down to the **GitHub Pages** section.
-4. Select the **main branch** and `/ (root)` for deployment.
-5. Your site will be live at `https://yourusername.github.io/repositoryname/`.
-
 ### Usage
 1. Open **LorSplit** in your browser.
 2. Adjust parameters using the available sliders and toggles:
@@ -50,10 +43,3 @@ Ensure you have the following installed:
 
 ## License
 This project is licensed under a **custom non-commercial open source license (CNCOSL)**. The software can be used, modified, and copied for personal or educational purposes but **cannot be used commercially**.
-
-## Acknowledgments
-Special thanks to all contributors and developers who helped bring **LorSplit** to life!
-
----
-
-This version removes references to it being an internal tool and adds GitHub Pages deployment instructions. Let me know if you need more tweaks!
