@@ -31,6 +31,7 @@ Ensure you have the following installed:
 ## Controls Overview
 | Control | Description |
 |---------|------------|
+| Click on the image area to start a line in a custom position.|
 | Max Splits | Defines the number of times lines can split. |
 | Branch Angle | Determines the angle between branches. |
 | Branch Chance | Controls probability of random branches forming. |
