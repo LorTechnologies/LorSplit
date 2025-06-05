@@ -24,14 +24,13 @@ Ensure you have the following installed:
    - **Branch Chance** – Sets the probability of branches splitting randomly.
    - **Line Speed & Thickness** – Adjust the movement speed and thickness of the lines.
    - **Line Color & Background** – Customize the appearance of the lines and background.
-3. Click **"Start Drawing"** to generate the split-based artwork.
+3. Click **"Start Drawing"**, or **Click on the image area** to generate the split-based artwork.
 4. If desired, enable **video recording** to capture the animation.
 5. Click **"Save Image"** to export the final result.
 
 ## Controls Overview
 | Control | Description |
 |---------|------------|
-| Click on the image area to start a line in a custom position.|
 | Max Splits | Defines the number of times lines can split. |
 | Branch Angle | Determines the angle between branches. |
 | Branch Chance | Controls probability of random branches forming. |
