@@ -41,5 +41,9 @@ Ensure you have the following installed:
 | Save Image | Exports the final drawing as an image. |
 | Video Recording | Captures the animation process. |
 
+## To-Do
+- Custom image and more colors for background
+- Higher res screen recording
+
 ## License
 This project is licensed under a **custom non-commercial open source license (CNCOSL)**. The software can be used, modified, and copied for personal or educational purposes but **cannot be used commercially**.
