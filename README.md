@@ -17,7 +17,7 @@ Ensure you have the following installed:
 - JavaScript enabled
 
 ### Usage
-1. Open **LorSplit** in your browser.
+1. Open **LorSplit** in your browser *OR* **download index.html**
 2. Adjust parameters using the available sliders and toggles:
    - **Max Splits** – Controls how many times the lines will branch.
    - **Branch Angle** – Defines the angle at which branches split.
