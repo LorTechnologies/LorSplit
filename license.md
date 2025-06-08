@@ -1,27 +1,27 @@
-Custom Non-Commercial Open Source License (CNCOSL) v1.0
-Copyright (c) [2025] [Lor Technologies]
+**Custom Non-Commercial Open Source License (CNCOSL) v1.0**
+**Copyright (c) [2025] [Lor Technologies]**
 
-Permissions
+**Permissions**
 You are allowed to:
 
-Use the software for personal or educational purposes.
+Use the software for **personal** or **educational** purposes.
 
-View and examine the source code.
+**View** the source code.
 
-Modify the software for personal or educational use.
+**Modify** the software for **personal** or **educational** use.
 
-Make copies of the software for personal or educational use.
+**Make copies** of the software for **personal** or **educational** use.
 
-Restrictions
+**Restrictions**
 You are not allowed to:
 
-Use the software for any commercial purpose.
+Use the software for any **commercial** purpose.
 
-Sell, license, or incorporate the software into commercial products.
+**Sell**, **license**, or **incorporate** the software into **commercial** products.
 
-Redistribute the software or modified versions, except for personal or educational use.
+**Redistribute** the software ormodified versions, except for **personal or educational** use.
 
-Disclaimer
-This software is provided "as is," without warranty of any kind. The authors are not liable for any damages resulting from its use.
+**Disclaimer**
+This software is provided "as is," **without warranty** of any kind. The authors are not liable for any damages resulting from its use.
 
 By using this software, you agree to these terms.
